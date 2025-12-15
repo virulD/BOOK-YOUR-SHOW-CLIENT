@@ -17,6 +17,8 @@
 /.next/
 /out/
 
+#for refresh
+
 # production
 /build
 
